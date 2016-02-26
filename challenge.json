@@ -1,0 +1,8 @@
+{
+  "editable": ["src/main.js","answer.md"],
+  "test": "mocha",
+  "readme": {
+    "en": "README.md",
+    "ja": "README_ja.md"
+  }
+}
